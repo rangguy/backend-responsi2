@@ -10,5 +10,6 @@ terdiri dari 2 tabel :
 
 <b>NILAI SISWA</b>
 - id INT <hr>
+- mata_pelajaran VARCHAR 255 <hr>
 - nilai INT <hr>
 - id_siswa INT <hr>
